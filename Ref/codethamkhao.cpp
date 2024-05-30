@@ -28,3 +28,19 @@ void Giaodienchinh::caigiaodien(QString gifPath)
     ui->lblbackground->lower();
     gifbackground->start();
 }
+// set anh gif
+void MainWindow::caigiaodien()
+{
+    ui->lbl->setVisible(false);
+    QString gifPath = "C:/Users/linh/Downloads/backrounddd.gif";
+    QMovie *gifbackground = new QMovie(gifPath);
+    if (!gifbackground->isValid()) {
+        qDebug() << "Không th? t?i GIF:" << gifPath;
+        return;
+    }
+    ui->lbl->setMovie(gifbackground);
+    ui->lbl->setVisible(true);
+    ui->lbl->raise();
+    ui->lbl->lower();
+    gifbackground->start();
+} 
