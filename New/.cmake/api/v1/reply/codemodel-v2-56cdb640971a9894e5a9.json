@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4d309e34400e9c976973.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Debug-7556e4c8bc477fd93d3d.json",
+					"name" : "Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen-Debug-cb1498575f46c399b1d3.json",
+					"name" : "Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen_timestamp_deps-Debug-09a3d0f947bad597d684.json",
+					"name" : "Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "E:/Qt_C++/Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

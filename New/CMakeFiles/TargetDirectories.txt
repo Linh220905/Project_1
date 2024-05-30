@@ -1,0 +1,9 @@
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen_timestamp_deps.dir
+E:/Qt_C++/build-Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Quan_Li_Thu_Phi_Quoc_Lo_1A_Nhom2_autogen.dir

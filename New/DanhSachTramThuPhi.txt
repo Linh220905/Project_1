@@ -1,0 +1,21 @@
+Trạm Hòa Phước Quảng Nam 35:::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Núi Thành - Quảng Nam:::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Bắc Hải Vân – Huế:::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Phú Bài (Phú Lộc) – Huế:::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Hồ Xá Quảng Trị:::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Quán Hàu – Quảng Bình :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Ba Đồn – Quảng Bình :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Cầu Rác Hà Tĩnh 35 :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Bến Thủy 2 – Nghệ An :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Hoàng Mai – Nghệ An :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Tào Xuyên – Thanh Hóa :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Bắc Giang – Lạng Sơn :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm thu phí Kiến Xương :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Trà Canh – Sóc Trăng :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Cái Răng – Cần Thơ :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Cai Lậy – Tiền Giang :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Trung Lương – TP.HCM :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Nguyễn Văn Linh TP.HCM :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Sông Lũy – Bình Thuận :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Cà Ná – Ninh Thuận :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
+Trạm Cam Thịnh – Cam Ranh :::Xe loại 1,52000:::Xe loại 2,70000:::Xe loại 3,87000:::Xe loại 4,140000:::Xe loại 5,200000
